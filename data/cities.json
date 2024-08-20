@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 17806756
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-08-20T09:23:48.561Z",
+      "notes": "",
+      "position": {
+        "lat": "41.87414128324227",
+        "lng": "12.496948242187502"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Sao Jose do Xingu",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2024-08-20T09:24:31.260Z",
+      "notes": "",
+      "position": {
+        "lat": "-10.99299722382255",
+        "lng": "-52.82226562500001"
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Ghan",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-08-20T09:29:09.065Z",
+      "notes": "",
+      "position": {
+        "lat": "-24.872396828930423",
+        "lng": "135.08789062500003"
+      },
+      "id": 73930392
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-08-20T09:43:01.472Z",
+      "notes": "",
+      "position": {
+        "lat": "51.5948161481019",
+        "lng": "0.5342259375000104"
+      },
+      "id": 73930393
     }
   ]
 }
